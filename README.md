@@ -8,7 +8,7 @@ Mobile Legends: Bang Bang (MLBB) is one of the most popular MOBA games worldwide
 **Source:** [Kaggle - Mobile Legends Bang Bang Dataset](https://www.kaggle.com/datasets/kishan9044/mobile-legends-bang-bang)
 
 ## Objectives
-1. Need to understand the distribution of heroes across primary roles
+1. Understand the distribution of heroes across primary roles
 2. Identify patterns in combat statistics across different roles
 3. Analyze esports performance to find which roles dominate competitive play
 4. Investigate relationships between hero attributes like; HP, damage, defense, etc.
@@ -28,11 +28,11 @@ Mobile Legends: Bang Bang (MLBB) is one of the most popular MOBA games worldwide
 - **Fighters dominate** the roster with 33 heroes (29% of all heroes)
 - **Mages** are the second most common at 25 heroes
 - **Marksmen & Tanks** have 18 and 16 respectively
-- **Support** is the rarest role with only 9 heroes — suggesting they're highly specialized
+- **Support** is the rarest role with only 9 heroes - suggesting they're highly specialized
 - The roster shows a clear preference for offensive roles (Fighter + Mage + Marksman + Assassin = 76% of heroes)
 
 ### Data Quality Notes
-- 84 of 114 heroes have no secondary role - most heroes are speacialized in single-role, which is meaningful and not a data error
+- 84 of 114 heroes have no secondary role - most heroes are specialized in single-role, which is meaningful and not a data error
 - One hero (Yin) had a missing Mana_Regen value - investigation revealed Yin doesn't consume mana, so this was filled with 0 to accurately reflect game mechanics
 
 ## Repository Structure

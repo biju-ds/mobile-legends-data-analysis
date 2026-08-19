@@ -100,11 +100,7 @@ mobile-legends-data-analysis/
 - [x] Statistical significance filtering
 - [x] Pro esports performance analysis
 
-### Next steps:
-- [ ] Identify "S-tier" outlier heroes using statistical thresholds
-- [ ] Lane-based performance analysis
-- [ ] Predictive modeling for win rate
-- [ ] Interactive dashboard with Plotly or Streamlit
+
 
 ## Author
 
